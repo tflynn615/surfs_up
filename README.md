@@ -1,18 +1,21 @@
 # surfs_up
 
-The written analysis has the following:
+## Overview 
 
-Overview of the statistical analysis:
+The purpose of this project is to analyze the weather of Oahu, Hawaii in order to determine if a surf shop business will be sustainable year round before opening a shop in this location. 
 
-The purpose of the analysis is well defined. (3 pt)
-Results:
+## Results 
 
-There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
-Summary:
-
-There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
-
-
+A summary analysis of Oahu weather resulted in these statistics for June: 
 ![june.png](june.png)
 
+And these statistics for December: 
 ![dec.png](dec.png)
+
+
+
+## Summary
+
+
+
+
