@@ -6,10 +6,12 @@ The purpose of this project is to analyze the weather of Oahu, Hawaii in order t
 
 ## Results 
 
-A summary analysis of Oahu weather resulted in these statistics for June: 
+A summary analysis of Oahu weather resulted in these statistics for June:
+
 ![june.png](june.png)
 
 And these statistics for December: 
+
 ![dec.png](dec.png)
 
 
