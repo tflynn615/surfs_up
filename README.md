@@ -11,3 +11,8 @@ There is a bulleted list that addresses the three key differences in weather bet
 Summary:
 
 There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
+
+
+![june.png](june.png)
+
+![dec.png](dec.png)
