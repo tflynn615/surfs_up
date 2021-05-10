@@ -14,7 +14,10 @@ And these statistics for December:
 
 ![dec.png](dec.png)
 
-
+The key differences include: 
+- There are about 200 less data points for December despite having similar number of days in the month. 
+- The average temperature in June is only about 3 degrees less than the average temperature for the month of June. 
+- 
 
 ## Summary
 
